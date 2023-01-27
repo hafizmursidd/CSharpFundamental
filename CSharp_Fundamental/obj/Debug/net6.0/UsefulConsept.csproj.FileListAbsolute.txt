@@ -1,0 +1,15 @@
+C:\Bootcamp\Batch18\CSharpFundamental\CSharp_Fundamental\bin\Debug\net6.0\UsefulConsept.exe
+C:\Bootcamp\Batch18\CSharpFundamental\CSharp_Fundamental\bin\Debug\net6.0\UsefulConsept.deps.json
+C:\Bootcamp\Batch18\CSharpFundamental\CSharp_Fundamental\bin\Debug\net6.0\UsefulConsept.runtimeconfig.json
+C:\Bootcamp\Batch18\CSharpFundamental\CSharp_Fundamental\bin\Debug\net6.0\UsefulConsept.dll
+C:\Bootcamp\Batch18\CSharpFundamental\CSharp_Fundamental\bin\Debug\net6.0\UsefulConsept.pdb
+C:\Bootcamp\Batch18\CSharpFundamental\CSharp_Fundamental\obj\Debug\net6.0\UsefulConsept.csproj.AssemblyReference.cache
+C:\Bootcamp\Batch18\CSharpFundamental\CSharp_Fundamental\obj\Debug\net6.0\UsefulConsept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp\Batch18\CSharpFundamental\CSharp_Fundamental\obj\Debug\net6.0\UsefulConsept.AssemblyInfoInputs.cache
+C:\Bootcamp\Batch18\CSharpFundamental\CSharp_Fundamental\obj\Debug\net6.0\UsefulConsept.AssemblyInfo.cs
+C:\Bootcamp\Batch18\CSharpFundamental\CSharp_Fundamental\obj\Debug\net6.0\UsefulConsept.csproj.CoreCompileInputs.cache
+C:\Bootcamp\Batch18\CSharpFundamental\CSharp_Fundamental\obj\Debug\net6.0\UsefulConsept.dll
+C:\Bootcamp\Batch18\CSharpFundamental\CSharp_Fundamental\obj\Debug\net6.0\refint\UsefulConsept.dll
+C:\Bootcamp\Batch18\CSharpFundamental\CSharp_Fundamental\obj\Debug\net6.0\UsefulConsept.pdb
+C:\Bootcamp\Batch18\CSharpFundamental\CSharp_Fundamental\obj\Debug\net6.0\UsefulConsept.genruntimeconfig.cache
+C:\Bootcamp\Batch18\CSharpFundamental\CSharp_Fundamental\obj\Debug\net6.0\ref\UsefulConsept.dll
