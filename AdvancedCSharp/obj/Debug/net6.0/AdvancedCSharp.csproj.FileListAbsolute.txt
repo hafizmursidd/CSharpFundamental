@@ -1,0 +1,15 @@
+C:\Bootcamp\Batch18\CSharpFundamental\AdvancedCSharp\bin\Debug\net6.0\AdvancedCSharp.exe
+C:\Bootcamp\Batch18\CSharpFundamental\AdvancedCSharp\bin\Debug\net6.0\AdvancedCSharp.deps.json
+C:\Bootcamp\Batch18\CSharpFundamental\AdvancedCSharp\bin\Debug\net6.0\AdvancedCSharp.runtimeconfig.json
+C:\Bootcamp\Batch18\CSharpFundamental\AdvancedCSharp\bin\Debug\net6.0\AdvancedCSharp.dll
+C:\Bootcamp\Batch18\CSharpFundamental\AdvancedCSharp\bin\Debug\net6.0\AdvancedCSharp.pdb
+C:\Bootcamp\Batch18\CSharpFundamental\AdvancedCSharp\obj\Debug\net6.0\AdvancedCSharp.csproj.AssemblyReference.cache
+C:\Bootcamp\Batch18\CSharpFundamental\AdvancedCSharp\obj\Debug\net6.0\AdvancedCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp\Batch18\CSharpFundamental\AdvancedCSharp\obj\Debug\net6.0\AdvancedCSharp.AssemblyInfoInputs.cache
+C:\Bootcamp\Batch18\CSharpFundamental\AdvancedCSharp\obj\Debug\net6.0\AdvancedCSharp.AssemblyInfo.cs
+C:\Bootcamp\Batch18\CSharpFundamental\AdvancedCSharp\obj\Debug\net6.0\AdvancedCSharp.csproj.CoreCompileInputs.cache
+C:\Bootcamp\Batch18\CSharpFundamental\AdvancedCSharp\obj\Debug\net6.0\AdvancedCSharp.dll
+C:\Bootcamp\Batch18\CSharpFundamental\AdvancedCSharp\obj\Debug\net6.0\refint\AdvancedCSharp.dll
+C:\Bootcamp\Batch18\CSharpFundamental\AdvancedCSharp\obj\Debug\net6.0\AdvancedCSharp.pdb
+C:\Bootcamp\Batch18\CSharpFundamental\AdvancedCSharp\obj\Debug\net6.0\AdvancedCSharp.genruntimeconfig.cache
+C:\Bootcamp\Batch18\CSharpFundamental\AdvancedCSharp\obj\Debug\net6.0\ref\AdvancedCSharp.dll
