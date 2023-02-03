@@ -1,0 +1,15 @@
+C:\Bootcamp\Batch18\CSharpFundamental\MultiThreads\bin\Debug\net6.0\MultiThreads.exe
+C:\Bootcamp\Batch18\CSharpFundamental\MultiThreads\bin\Debug\net6.0\MultiThreads.deps.json
+C:\Bootcamp\Batch18\CSharpFundamental\MultiThreads\bin\Debug\net6.0\MultiThreads.runtimeconfig.json
+C:\Bootcamp\Batch18\CSharpFundamental\MultiThreads\bin\Debug\net6.0\MultiThreads.dll
+C:\Bootcamp\Batch18\CSharpFundamental\MultiThreads\bin\Debug\net6.0\MultiThreads.pdb
+C:\Bootcamp\Batch18\CSharpFundamental\MultiThreads\obj\Debug\net6.0\MultiThreads.csproj.AssemblyReference.cache
+C:\Bootcamp\Batch18\CSharpFundamental\MultiThreads\obj\Debug\net6.0\MultiThreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp\Batch18\CSharpFundamental\MultiThreads\obj\Debug\net6.0\MultiThreads.AssemblyInfoInputs.cache
+C:\Bootcamp\Batch18\CSharpFundamental\MultiThreads\obj\Debug\net6.0\MultiThreads.AssemblyInfo.cs
+C:\Bootcamp\Batch18\CSharpFundamental\MultiThreads\obj\Debug\net6.0\MultiThreads.csproj.CoreCompileInputs.cache
+C:\Bootcamp\Batch18\CSharpFundamental\MultiThreads\obj\Debug\net6.0\MultiThreads.dll
+C:\Bootcamp\Batch18\CSharpFundamental\MultiThreads\obj\Debug\net6.0\refint\MultiThreads.dll
+C:\Bootcamp\Batch18\CSharpFundamental\MultiThreads\obj\Debug\net6.0\MultiThreads.pdb
+C:\Bootcamp\Batch18\CSharpFundamental\MultiThreads\obj\Debug\net6.0\MultiThreads.genruntimeconfig.cache
+C:\Bootcamp\Batch18\CSharpFundamental\MultiThreads\obj\Debug\net6.0\ref\MultiThreads.dll
