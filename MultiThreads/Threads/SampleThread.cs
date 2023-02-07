@@ -43,6 +43,58 @@ namespace MultiThreads.Threads
             Console.WriteLine($"End of current thread: {Thread.CurrentThread.Name} END");
         }
 
+
+        public static void CreateThreadBackground()
+        {
+            Thread threadBack = new(
+                    () =>
+                    {
+                        for (int i = 0; i < 5; i++)
+                        {
+                            Console.WriteLine($"Thread Background: {Thread.CurrentThread.Name} print {i}");
+                            Thread.Sleep(1000);
+                        }
+                        Console.WriteLine(Thread.CurrentThread.Name+ " Finished running");
+                    }
+                );
+            threadBack.Name = "Child-Thread";
+            threadBack.Start();
+            threadBack.IsBackground = false;
+        }
+        public static void CreateThreadwithParam()
+        {
+            Thread thread3 = new Thread(SampleThread.ExecuteMethod3);
+            thread3.Name = "This is Thread 3";
+            Console.WriteLine("Thread 3 has been running");
+            thread3.Priority = ThreadPriority.Highest;
+            thread3.Start(15);
+            thread3.Join();
+        }
+
+        public static void CreateThreadwithLambda()
+        {
+            int result = 0;
+            Thread threadLambda = new Thread(
+                    (n) =>
+                    {
+                        Console.WriteLine($"The {Thread.CurrentThread.Name} has been Execute");
+                        try
+                        {
+                            int temp = Convert.ToInt32(n);
+                            result = temp + 100;
+                        }
+                        catch (Exception e)
+                        {
+                            Console.WriteLine("Exception: "+e);
+                        }
+                    }
+                    );
+
+            threadLambda.Name = "Thread with Lambda";
+            threadLambda.Start();
+            threadLambda.Join();
+            Console.WriteLine($"The Result is: {result}");
+        }
         public static void ExecuteMethod1()
         {
             for (int i = 0; i < 10; i++)
@@ -56,6 +108,16 @@ namespace MultiThreads.Threads
             for (int i = 0; i < 10; i++)
             {
                 Console.WriteLine($"{Thread.CurrentThread.Name} from ExecuteMethod2 print: {i}");
+            }
+        }
+
+        public static void ExecuteMethod3 (object? value)
+        {
+            int upperLimit = Convert.ToInt32(value);
+            for (int i = upperLimit - 3; i < upperLimit; i++)
+            {
+                Console.WriteLine($"The {Thread.CurrentThread.Name} from ExecuteMethod3 print: {i}");
+                Thread.Sleep(100);
             }
         }
     }

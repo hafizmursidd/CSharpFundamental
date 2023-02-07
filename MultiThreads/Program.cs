@@ -6,6 +6,22 @@ internal class Program
     {
         Console.WriteLine("Hello, World!");
 
-        SampleThread.CreateBasicThread();
+        //SampleThread.CreateBasicThread();
+
+        //SampleThread.CreateThreadwithParam();
+
+        //SampleThread.CreateThreadwithLambda();
+
+        //SampleThread.CreateThreadBackground();
+
+        //SampleThreadSafety.InitThreadSafety();
+        //SampleThreadSafety.InitThreadSafeWithLock();
+
+
+        //SampleCancellation.InitThreadCancellation();
+        SampleThreadPool.InitThreadPool();
+
+
+
     }
 }
